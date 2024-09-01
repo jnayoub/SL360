@@ -1,0 +1,54 @@
+# PB&J SL360 Course
+
+## Overview
+
+This README provides details about the initial deployment of a sample course developed using Storyline 360 (SL360). The course is designed to introduce learners to the fundamentals of creating a PB&J sandwich, with a focus on interactive learning and assessment.
+
+## Course Structure
+
+The course is organized into the following sections:
+
+1. **Introduction to PB&J Sandwiches**: Lays the foundation by defining what a PB&J sandwich is and outlining the course structure.
+2. **Basic Ingredients**: Explores the essential components of a PB&J sandwich, including peanut butter, jelly/jam, and bread.
+3. **Assessment and Final Quiz**: Tests the learner's understanding of the material covered in the course.
+
+## Features
+
+1. **Toggle free navigation before audio completes**: Learners can navigate freely after the audio finishes, enhancing the user experience.
+2. **Quiz with a 70% passing score requirement**: Learners must score at least 70% on the final quiz before the course is marked as complete.
+3. **Multiple scenes with navigation options**: Allows learners to return to the start of the course for review.
+4. **Audio narration**: The course includes audio narration to guide learners through the content.
+
+## Deployment Details
+
+- **Platform**: Storyline 360 (SL360)
+- **Initial Deployment Date**: 9/1/2024
+- **Version**: 1.0
+
+## Links and Resources
+
+### All links are to public view links on my SharePoint. If you want another way to review, contact me at JNAYOUB[AT]GMAIL.COM
+
+### Source File
+
+- **SL360**: [Download SL360 Source File](https://1drv.ms/u/s!AvbbfCTEj5tMh5Avsg2EmaLnOUiEtA?e=7eV1lI)
+
+### Publish Zips
+
+- **SCORM 1.2**: [Download SCORM 1.2 Zip](https://1drv.ms/u/s!AvbbfCTEj5tMh5AuxpOtv8vCTZ68Gw?e=TAes0g)
+- **SCORM 2004**: [Download SCORM 2004 Zip](https://1drv.ms/u/s!AvbbfCTEj5tMh5AsZ-Pr6OI_mHilUQ?e=AssC38)
+- **xAPI**: [Download xAPI Zip](https://1drv.ms/u/s!AvbbfCTEj5tMh5At9D1ETMyzHpAsAA?e=jybdWj)
+
+### Preview SL360 Course on SCORM Cloud
+
+- [SCORM Cloud Preview](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=ee9c5aa2-fb92-47a0-a52b-b2f7e6f5b84e)
+
+## How to Use
+
+1. **Launch the Course**: Start by clicking the 'Start Course' button.
+2. **Navigate through Modules**: Use the course menu to move through the different modules.
+3. **Complete the Final Quiz**: At the end of the course, take the quiz to assess your understanding.
+
+## Contact Information
+
+For questions or support regarding this sample course, please contact JNAYOUB[AT]GMAIL.COM.
